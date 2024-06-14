@@ -1,0 +1,253 @@
+.contactclass{
+margin-left: 20px;
+}
+
+.logo1{
+    background-color:rgb(86, 230, 86);
+    width: 4%;
+}
+
+.phonemail{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media (max-width:800px){
+    .phonemail{
+        display: flex;
+        flex-direction: column;
+        margin-left: 5%;
+    }
+}
+
+.phonenumber{
+    font-size: 1.2rem;
+}
+
+.email{
+    font-size: 1.2rem;
+  
+}
+
+.reach{
+    color: #8a8888;
+}
+
+.fullcontact{
+    width: 45%;
+    border-style: solid;
+    border-color: #8a8888;
+    margin-left: 50px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width:800px){
+    .fullcontact{
+        height: 90%;
+        width: 100%;
+        margin: 0;
+        margin-top: 5%;
+    }
+}
+
+.contactus{
+    font-size: 1.5rem;
+}
+
+.fornum{
+    font-size: 0.9rem;
+}
+
+.foremail{
+    font-size: 0.9rem;
+}
+
+.termcond{
+    font-size: 1.5rem;
+}
+
+.yourself{
+    color: #8a8888;
+}
+
+.fullterms{
+    width: 45%;
+    border-style: solid;
+    border-color: #8a8888;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+@media (max-width:800px){
+    .fullterms{
+        height: 90%;
+        width: 100%;
+        margin: 0;
+        margin-top: 5%;
+    }
+}
+
+.full{
+margin-left: 20px;
+}
+
+.fullsupportpage1{
+    display: flex;
+}
+
+@media (max-width:800px){
+    .fullsupportpage1{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.logo2{
+    background-color:rgb(86, 230, 86);
+    width: 4%;
+}
+
+.logo3{
+    background-color:rgb(86, 230, 86);
+    width: 4%;
+}
+
+.requestdiv{
+    width: 45%;
+    border-style: solid;
+    border-color: #8a8888;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+@media (max-width:800px){
+    .requestdiv{
+        height: 90%;
+        width: 100%;
+        margin: 0;
+        margin-top: 5%;
+    }
+}
+
+.suppreq{
+    font-size: 1.5rem;
+}
+
+.feedback{
+    color: #8a8888;
+}
+
+.semirequest{
+    margin-left: 20px;
+}
+
+.guides{
+    width: 45%;
+    border-style: solid;
+    border-color: #8a8888;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+@media (max-width:800px){
+    .guides{
+        height: 90%;
+        width: 100%;
+        margin: 0;
+        margin-top: 5%;
+    }
+}
+
+.logo4{
+    background-color:rgb(86, 230, 86);
+    width: 4%;
+}
+
+.guide{
+    font-size: 1.5rem;
+}
+
+.semidiv{
+    margin-left: 20px;
+}
+
+.details{
+    color: #8a8888;
+}
+
+.fullsupportpage2{
+    display: flex;
+}
+
+@media (max-width:800px){
+    .fullsupportpage2{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.hr{
+    color: #8a8888;
+}
+
+.par1{
+    font-size: 1.2rem;
+}
+
+@media (max-width:800px){
+    .par1{
+         margin: 0;
+         
+    }
+}
+
+.par2{
+    font-size: 1.2rem;
+}
+
+.par3{
+    font-size: 1.2rem;
+}
+
+.par4{
+    font-size: 1.2rem;
+}
+
+.question1{
+    font-size: 0.9rem;
+    color: #8a8888;
+}
+.question2{
+    font-size: 0.9rem;
+    color: #8a8888;
+}
+
+.question3{
+    font-size: 0.9rem;
+    color: #8a8888;
+}
+
+.question4{
+    font-size: 0.9rem;
+    color: #8a8888;
+}
+
+.thequestions{
+    margin-left: 110px;
+    padding-bottom:30px ;
+}
+
+@media (max-width:800px){
+    .fullpage{
+        width: 100%;
+    }
+}
+
+@media (max-width:800px){
+    .frq{
+        margin: 0;
+        font-size: 1rem;
+    }
+}

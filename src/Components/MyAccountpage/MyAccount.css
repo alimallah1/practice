@@ -1,0 +1,46 @@
+.accountbalance{
+   width: 30%;
+  }
+
+.forexbalance{
+    font-size: 0.7rem;
+    margin-left: 20px;
+    color: #8a8888;
+}
+
+.hforex{
+    margin-left: 20px;
+}
+
+.twodivs{
+    display: flex;
+    justify-content: space-around;
+    width:90%;
+    margin-left: 60px;
+    height: 30px;
+    margin-top: 45px;
+
+}
+
+.addfunds{
+   border-radius: 8px;
+   border-style: none;
+   width: 140px;
+   background-color: rgb(97, 212, 97);
+   color: white;
+}
+
+.transferfunds{
+    border-radius: 8px;
+    border-style: none;
+    width: 140px;
+    color: rgb(224, 184, 40);
+    background-color: rgb(79, 71, 11);
+}
+
+
+.fullbalance{
+  width: 40%;
+  display: flex;
+}
+

@@ -1,0 +1,8 @@
+.custom-paper-class {
+    background-color: black;
+  }
+  .css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+    background-color: black !important; /* Adding !important to override other rules */
+    color: white; /* Adjust text color as needed */
+}
+  

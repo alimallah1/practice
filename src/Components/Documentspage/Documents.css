@@ -1,0 +1,82 @@
+.documentpara{
+    margin-left: 11%;
+    color: #9c9a9a;
+  }
+
+  @media (max-width:800px){
+    .documentpara{
+        font-size: 0.9rem;
+        margin: 0;
+    }
+  }
+  
+  .down{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+
+  @media(max-width:800px){
+    .down{
+      display: flex;
+      flex-direction: column;
+      margin: 0;
+      
+    }
+  }
+  
+  .forcrypto{
+    font-size: 1.1rem;
+    color: green;
+  
+  }
+  
+  .forforex{
+    font-size: 1.1rem;
+    color: rgb(211, 10, 10);
+  }
+  
+  .forstocks{
+    font-size: 1.1rem;
+    color: green;
+  }
+  
+  .forexbtn{
+  margin-left: 50px;
+  height: 35px;
+  width: 95px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: rgb(86, 230, 86);
+  color: white;
+  }
+
+  .cry{
+    border-style: solid;
+   border-radius: 15px;
+   border-color: #8a8888;
+   width: 18%;
+   }
+   
+   .gt{
+     border-style: solid;
+     border-radius: 15px;
+     border-color: #8a8888;
+     width: 30%;
+   }
+   
+   .st{
+     border-style: solid;
+     border-radius: 15px;
+     border-color: #8a8888;
+     width: 18%;
+   }
+   
+   @media (max-width:800px){
+    .up{
+      font-size: 0.7rem;
+      margin: 0;
+      padding: 0;
+
+    }
+   }

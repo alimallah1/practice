@@ -1,0 +1,24 @@
+.wrapper{
+    position: fixed;
+ 
+}
+
+
+.wrapper{
+    background-color:#181818;
+    width: 15%;
+    height: 170%;
+  }
+
+@media screen and  (max-width:700px){
+    .wrapper{
+        display:none;
+    }
+}
+
+@media screen and  (min-width:700px){
+    .wrapper{
+        display:none;
+    }
+}
+

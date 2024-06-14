@@ -1,0 +1,11 @@
+@media (min-width:800px){
+    .drawerwrapper{
+        display: none;
+    }
+}
+
+@media (max-width:800px){
+    .capitaltitle{
+        display: none;
+    }
+}
